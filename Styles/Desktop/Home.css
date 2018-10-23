@@ -1,0 +1,36 @@
+/* 
+Copyright Oliver Perry 30/10/2013 
+*/
+
+#home {
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+#home .scrollSection {
+	height: 52%;
+}
+
+#homeQuote1 {
+}
+
+#homeList1 {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	margin: 0 auto;
+}
+
+#homeList1 ul {
+}
+
+#homeList1 li {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding-bottom: 10%;
+}
+
+#homeQuote2 {
+}

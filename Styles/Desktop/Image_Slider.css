@@ -1,0 +1,126 @@
+/* 
+Copyright Oliver Perry 30/10/2013 
+*/
+
+#imageSlider {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 125px;
+	background-color: white;
+}
+
+#sliderHolder {
+	position: relative;
+	width: 690px;
+	height: 100%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+#slider {
+	position: absolute;
+	left: 0px;
+	width: 2760px;
+	height: 100%;
+}
+
+#slider ul {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+#slider li {
+	position: relative;
+	display: inline-block;
+	width: 200px;
+	height: 100px;
+	margin: 13px 15px;
+	list-style: none;
+	float: left;
+}
+
+#sPic1 {
+	background: url("../../Images/Accountancy.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic2 {
+	background: url("../../Images/Bridge.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic3 {
+	background: url("../../Images/Blueprints6.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic4 {
+	background: url("../../Images/Blueprints4.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic5 {
+	background: url("../../Images/Buttons3.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic6 {
+	background: url("../../Images/Blueprints5.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic7 {
+	background: url("../../Images/Buttons2.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic8 {
+	background: url("../../Images/Blueprints1.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic9 {
+	background: url("../../Images/Clamp.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic10 {
+	background: url("../../Images/Blueprints2.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic11 {
+	background: url("../../Images/Buttons1.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#sPic12 {
+	background: url("../../Images/Blueprints3.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#triangle-left {
+	position: absolute;
+	left: 0;
+	width: 0;
+	height: 0;
+	margin-top: 45px;
+	margin-left: 10px;
+	border-right: 23px solid #000;
+	border-top: 23px solid transparent;
+	border-bottom: 23px solid transparent;
+}
+
+#triangle-right {
+	position: absolute;
+	right: 0;
+	width: 0;
+	height: 0;
+	margin-top: 45px;
+	margin-right: 10px;
+	border-left: 23px solid #000;
+	border-top: 23px solid transparent;
+	border-bottom: 23px solid transparent;
+}

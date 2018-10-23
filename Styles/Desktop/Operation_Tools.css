@@ -1,0 +1,43 @@
+/* 
+Copyright Oliver Perry 30/10/2013 
+*/
+
+#operationTools {
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+#opToolsQuote1 {
+}
+
+#opToolsLists {
+	position: relative;
+	width: 86%;
+	height: 43%;
+	margin: 0 auto;
+}
+
+#opToolsLists li {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding-bottom: 15%;
+}
+
+#opToolsList1 {
+	position: absolute;
+	left: 0;
+	width: 45%;
+	height: 100%;
+}
+
+#opToolsList2 {
+	position: absolute;
+	right: 0;
+	width: 45%;
+	height: 100%;
+}
+
+#opToolsQuote2 {
+}

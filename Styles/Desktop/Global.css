@@ -1,0 +1,297 @@
+/* 
+Copyright Oliver Perry 30/10/2013 
+Global Sheet 
+*/
+
+html {
+}
+
+body {
+	font-family: tex_gyre_bonumregular;
+	position: relative;
+	width: 1000px;
+	height: 900px;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 1%;
+	margin: 1% auto;
+	background-color: #444;
+}
+
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.bullet {
+	position: absolute;
+	display: inline-block;
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background-color: #000;
+}
+
+.bulletText {
+	position: absolute;
+	display: inline-block;
+	width: 90%;
+	top: -5px;
+	margin-left: 40px;
+	font-size: 90%;
+	line-height: 130%;
+}
+
+.scrollSection {
+	width: 96%;
+	height: 82%;
+	padding: 2%;
+	line-height: 130%;
+	overflow: auto;
+}
+
+#pageTop {
+	position: relative;
+	width: 100%;
+	height: 13%;
+}
+
+#logo {
+	position: absolute;
+	left: 0;
+	width: 20%;
+	height: 100%;
+	text-align: center;
+	background-color: #000;
+}
+
+#logoShort {
+	color: white;
+	font-size: 500%;
+}
+
+#logoLong {
+	color: white;
+	font-size: 80%;
+}
+
+#banner {
+	position : absolute;
+	right: 0;
+	width: 78%;
+	height: 100%;
+	text-align: center;
+	color: white;
+	background-color: #000;
+}
+
+#bHeader {
+	padding-top: 3%;
+	font-size: 200%;
+}
+
+#bMain {
+	padding-top: 1%;
+	font-size: 150%;
+}
+
+#pageMid {
+	position: relative;
+	width: 100%;
+	height: 30%;
+	margin-top: 0.9%;
+	margin-bottom: 0.9%;
+}
+
+#menuItems {
+	position: absolute;
+	left: 0;
+	width: 20%;
+	height: 100%;
+}
+
+#homeNav {
+	top: 0;
+}
+
+#historyNav {
+	top: 21%;
+}
+
+#servicesNav {
+	top: 42%;
+}
+
+#opToolsNav {
+	top: 63%;
+}
+
+#apCostNav {
+	top: 84%;
+}
+
+.pageNavs {
+	position: absolute;
+	width: 90%;
+	height: 16%;
+	line-height: 290%;
+	color: white;
+	font-size: 90%;
+	padding-left: 10%;
+	background-color: #000;
+	transition: background-color 0.3s ease 0;
+	-webkit-transition: background-color 0.3s ease 0;
+	-moz-transition: background-color 0.3s ease 0;
+	-o-transition: background-color 0.3s ease 0;
+	-ms-transition: background-color 0.3s ease 0;
+}
+
+.pageNavs:link {
+}
+
+.pageNavs:visited {
+}
+
+.pageNavs:hover {
+	background-color: #666;
+}
+
+.pageNavs:active {
+}
+
+#timedImageSlider {
+	position: absolute;
+	right: 0;
+	width: 78%;
+	height: 100%;
+}
+
+#pageMain {
+	position: relative;
+	width: 100%;
+	height: 47%;
+}
+
+#contact {
+	position: absolute;
+	left: 0;
+	width: 20%;
+	height: 98%;
+	background-color: white;
+}
+
+#cHeader {
+	text-align: center;
+	padding-top: 20%;
+	font-size: 120%;
+}
+
+#cMain {
+	padding-top: 20%;
+	padding-left: 5%;
+	font-size: 78%;
+}
+
+#mainSection {
+	position: absolute;
+	right: 0;
+	width: 78%;
+	height: 98%;
+}
+
+.pageTitle {
+	position: relative;
+	width: 100%;
+	height: 10%;
+	font-size: 120%;
+	line-height: 215%;
+	text-align: center;
+	color: white;
+	background-color: #000
+}
+
+#pageBottom {
+	position: relative;
+	width: 100%;
+	height: 10%;
+	line-height: 130%;
+	color: white;
+	background-color: #000;
+}
+
+#social {
+	position: absolute;
+	left: 0;
+	width: 33%;
+	height: 100%;
+}
+
+#twitter {
+	position: absolute;
+	top: 20%;
+	left: 20%;
+}
+
+#linkedIn {
+	position: absolute;
+	top: 20%;
+	right: 20%;
+}
+
+#facebook {
+	position: absolute;
+	bottom: 20%;
+	left: 20%;
+}
+
+#youTube {
+	position: absolute;
+	bottom: 20%;
+	right: 20%;
+}
+
+#legal {
+	position: absolute;
+	left: 33.5%;
+	width: 33%;
+	height: 100%;
+}
+
+#ySS {
+	position: absolute;
+	width: 100%;
+	font-size: 75%;
+	bottom: 35%;
+	text-align: center;
+}
+
+#links {
+	position: absolute;
+	right: 0;
+	width: 33%;
+	height: 100%;
+}
+
+#google {
+	position: absolute;
+	top: 20%;
+	left: 20%;
+}
+
+#bing {
+	position: absolute;
+	top: 20%;
+	right: 20%;
+}
+
+#ask {
+	position: absolute;
+	bottom: 20%;
+	left: 20%;
+}
+
+#yahoo {
+	position: absolute;
+	bottom: 20%;
+	right: 20%;
+}

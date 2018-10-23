@@ -1,0 +1,43 @@
+/* 
+Copyright Oliver Perry 30/10/2013 
+*/
+
+#approachCost {
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+#apCostQuote1 {
+}
+
+#apCostLists {
+	position: relative;
+	width: 86%;
+	height: 60%;
+	margin: 0 auto;
+}
+
+#apCostLists li {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	padding-bottom: 15%;
+}
+
+#apCostList1 {
+	position: absolute;
+	left: 0;
+	width: 45%;
+	height: 100%;
+}
+
+#apCostList2 {
+	position: absolute;
+	right: 0;
+	width: 45%;
+	height: 100%;
+}
+
+#apCostQuote2 {
+}

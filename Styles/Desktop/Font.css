@@ -1,0 +1,55 @@
+/* 
+Copyright Oliver Perry 30/10/2013 
+*/
+
+@font-face {
+    font-family: 'tex_gyre_bonumregular';
+    src: url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_regular_english/texgyrebonum-regular-webfont.eot');
+    src: url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_regular_english/texgyrebonum-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_regular_english/texgyrebonum-regular-webfont.woff') format('woff'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_regular_english/texgyrebonum-regular-webfont.ttf') format('truetype'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_regular_english/texgyrebonum-regular-webfont.svg#tex_gyre_bonumregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tex_gyre_bonumitalic';
+    src: url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_italic_english/texgyrebonum-italic-webfont.eot');
+    src: url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_italic_english/texgyrebonum-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_italic_english/texgyrebonum-italic-webfont.woff') format('woff'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_italic_english/texgyrebonum-italic-webfont.ttf') format('truetype'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_italic_english/texgyrebonum-italic-webfont.svg#tex_gyre_bonumitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tex_gyre_bonumbold_italic';
+    src: url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_bolditalic_english/texgyrebonum-bolditalic-webfont.eot');
+    src: url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_bolditalic_english/texgyrebonum-bolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_bolditalic_english/texgyrebonum-bolditalic-webfont.woff') format('woff'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_bolditalic_english/texgyrebonum-bolditalic-webfont.ttf') format('truetype'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_bolditalic_english/texgyrebonum-bolditalic-webfont.svg#tex_gyre_bonumbold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'tex_gyre_bonumbold';
+    src: url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_bold_english/texgyrebonum-bold-webfont.eot');
+    src: url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_bold_english/texgyrebonum-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_bold_english/texgyrebonum-bold-webfont.woff') format('woff'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_bold_english/texgyrebonum-bold-webfont.ttf') format('truetype'),
+         url('../../Fonts/TeX-Gyre-Bonum-fontfacekit/web fonts/texgyrebonum_bold_english/texgyrebonum-bold-webfont.svg#tex_gyre_bonumbold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+b,strong {
+	font-family: tex_gyre_bonumbold;
+}
+
+i,em {
+	font-family: tex_gyre_bonumitalic;
+}

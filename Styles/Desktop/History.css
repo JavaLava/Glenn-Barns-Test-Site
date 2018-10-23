@@ -1,0 +1,159 @@
+/* 
+Copyright Oliver Perry 30/10/2013 
+*/
+
+#history {
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+
+#historyQuote1 {
+}
+
+#historyImages {
+	position: relative;
+	width: 90%;
+	margin: 0 auto;
+}
+
+#historyImages p {
+	position: relative;
+	font-size: 80%;
+	text-align: center;
+	top: -40px;
+}
+
+#historyImgRow1 {
+	position: relative;
+	width: 100%;
+	height: 120px;
+	margin-bottom: 15%;
+}
+
+#historyImgRow2 {
+	position: relative;
+	width: 100%;
+	height: 120px;
+	margin-bottom: 15%;
+}
+
+#historyImgRow3 {
+	position: relative;
+	width: 100%;
+	height: 120px;
+	margin-bottom: 15%;
+}
+
+#historyImgRow4 {
+	position: relative;
+	width: 100%;
+	height: 120px;
+	padding-bottom: 5%;
+}
+
+#pic1 {
+	position: absolute;
+	display: inline-block;
+	left: 0%;
+	width: 200px;
+	height: 120px;
+	background-color: lightgrey;
+	background: url("../../Images/Engineering.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#pic2 {
+	position: absolute;
+	display: inline-block;
+	left: 35%;
+	width: 200px;
+	height: 120px;
+	background-color: lightgrey;
+	background: url("../../Images/LayoutProcess.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#pic3 {
+	position: absolute;
+	display: inline-block;
+	left: 70%;
+	width: 200px;
+	height: 120px;
+	background-color: lightgrey;
+	background: url("../../Images/IndustrialEngineering.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#pic4 {
+	position: absolute;
+	left: 0;
+	width: 200px;
+	height: 120px;
+	background-color: lightgrey;
+	background: url("../../Images/Maintenance.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#pic5 {
+	position: absolute;
+	left: 35%;
+	width: 200px;
+	height: 120px;
+	background-color: lightgrey;
+	background: url("../../Images/OperationalEfficiency.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#pic6 {
+	position: absolute;
+	left: 70%;
+	width: 200px;
+	height: 120px;
+	background-color: lightgrey;
+	background: url("../../Images/ProjectManagement.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#pic7 {
+	position: absolute;
+	left: 0;
+	width: 200px;
+	height: 120px;
+	background-color: lightgrey;
+	background: url("../../Images/CivilWorks.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#pic8 {
+	position: absolute;
+	left: 35%;
+	width: 200px;
+	height: 120px;
+	background-color: lightgrey;
+	background: url("../../Images/SixSigma.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#pic9 {
+	position: absolute;
+	left: 70%;
+	width: 200px;
+	height: 120px;
+	background-color: lightgrey;
+	background: url("../../Images/FinancialControl.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#pic10 {
+	position: absolute;
+	left: 35%;
+	width: 200px;
+	height: 120px;
+	background-color: lightgrey;
+	background: url("../../Images/Blueprints2.jpg") center no-repeat;
+	background-size: contain;
+}
+
+#historyQuote2 {
+}
